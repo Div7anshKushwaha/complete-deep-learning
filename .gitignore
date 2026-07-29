@@ -1,2 +1,10 @@
-.ipynb_checkpoints
-anaconda_projects
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Anaconda project files
+anaconda_projects/
+**/anaconda_projects/
+
+# Database files
+*.db
